@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Toffee35
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there 👋
 
-<!---
-Toffee35/Toffee35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a backend and frontend developer with a strong focus on **Rust** and **TypeScript**, also experienced in **Python** and **C++**.
+
+## 🛠️ Tech Stack
+
+### Backend
+- **Rust**: Axum, Actix
+- **Node.js**: Express
+- **Python**: FastAPI
+
+### Frontend
+- **React** with Next.js or Vite + React Router
+- State management: Zustand, Redux
+
+### Paradigms
+- Prefer functional programming, but proficient in OOP
+- Occasionally work with Machine Learning
+
+## 🔭 Interests
+- Building performant backend systems
+- Creating modern web interfaces
+- Exploring functional programming concepts
+- Learning about systems programming and compiler design
+
+---
