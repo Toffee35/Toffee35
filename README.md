@@ -4,6 +4,8 @@ I'm a backend and frontend developer with a strong focus on **Rust** and **TypeS
 
 ## 🛠️ Tech Stack
 
+<img src="https://tenor.com/view/gato-anotado-noted-noted-gato-noted-cat-gif-15232071836705052766" alt="Me" align="right">
+
 ### Backend
 - **Rust**: Axum, Actix
 - **Node.js**: Express
