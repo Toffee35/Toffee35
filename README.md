@@ -1,28 +1,13 @@
-# Hi there 👋
+## Backend
+**Rust**: [Actix](actix.rs), [Rocket](rocket.rs), [Axum](github.com/tokio-rs/axum)
+**Python**: [FastAPI](fastapi.tiangolo.com)
+**Databases**: [Postgres](www.postgresql.org) (+ [PostGIS](postgis.net)), [MongoDB](www.mongodb.com), [Elasticsearch](www.elastic.co/elasticsearch), [Opensearch](opensearch.org)
 
-I'm a backend and frontend developer with a strong focus on **Rust** and **TypeScript**, also experienced in **Python** and **C++**.
+## Frontend
+**TypeScript + React**: [Next.js](nextjs.org), [React Router](reactrouter.com)
+**Styling**: Css, [Sass](sass-lang.com), [Tailwind Css](tailwindcss.com)
+**Bandlers**: [Vite](vite.dev)
 
-## 🛠️ Tech Stack
-
-<img src="./gato-anotado.gif" alt="Me" align="right">
-
-### Backend
-- **Rust**: Axum, Actix
-- **Node.js**: Express
-- **Python**: FastAPI
-
-### Frontend
-- **React** with Next.js or Vite + React Router
-- State management: Zustand, Redux
-
-### Paradigms
-- Prefer functional programming, but proficient in OOP
-- Occasionally work with Machine Learning
-
-## 🔭 Interests
-- Building performant backend systems
-- Creating modern web interfaces
-- Exploring functional programming concepts
-- Learning about systems programming and compiler design
-
----
+### Additionally
+**Tools**: [Docker](www.docker.com), [Git](git-scm.com)
+**Systems**: Windows, Linux
