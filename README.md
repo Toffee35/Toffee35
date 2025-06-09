@@ -1,20 +1,20 @@
 ## Backend
-**Rust**: [Actix](actix.rs), [Rocket](rocket.rs), [Axum](github.com/tokio-rs/axum)
+**Rust**: [Actix](https://actix.rs), [Rocket](https://rocket.rs), [Axum](https://github.com/tokio-rs/axum)
 
-**Python**: [FastAPI](fastapi.tiangolo.com)
+**Python**: [FastAPI](https://fastapi.tiangolo.com)
 
-**Databases**: [Postgres](www.postgresql.org) (+ [PostGIS](postgis.net)), [MongoDB](www.mongodb.com), [Elasticsearch](www.elastic.co/elasticsearch), [Opensearch](opensearch.org)
+**Databases**: [Postgres](https://www.postgresql.org) (+ [PostGIS](https://postgis.net)), [MongoDB](https://www.mongodb.com), [Elasticsearch](https://www.elastic.co/elasticsearch), [Opensearch](https://opensearch.org)
 
 
 ## Frontend
-**TypeScript + React**: [Next.js](nextjs.org), [React Router](reactrouter.com)
+**TypeScript + React**: [Next.js](https://nextjs.org), [React Router](https://reactrouter.com)
 
-**Styling**: Css, [Sass](sass-lang.com), [Tailwind Css](tailwindcss.com)
+**Styling**: Css, [Sass](https://sass-lang.com), [Tailwind Css](https://tailwindcss.com)
 
-**Bandlers**: [Vite](vite.dev)
+**Bandlers**: [Vite](https://vite.dev)
 
 
 ### Additionally
-**Tools**: [Docker](www.docker.com), [Git](git-scm.com)
+**Tools**: [Docker](https://www.docker.com), [Git](https://git-scm.com)
 
 **Systems**: Windows, Linux
