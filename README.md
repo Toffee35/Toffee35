@@ -1,9 +1,9 @@
 ## Backend
-**Rust**: [Actix](https://actix.rs), [Rocket](https://rocket.rs), [Axum](https://github.com/tokio-rs/axum)
+**Rust**: [Actix](https://actix.rs)
 
 **Python**: [FastAPI](https://fastapi.tiangolo.com)
 
-**Databases**: [Postgres](https://www.postgresql.org) (+ [PostGIS](https://postgis.net)), [MongoDB](https://www.mongodb.com), [Elasticsearch](https://www.elastic.co/elasticsearch), [Opensearch](https://opensearch.org)
+**Databases**: [Postgres](https://www.postgresql.org) (+ [PostGIS](https://postgis.net)), [MongoDB](https://www.mongodb.com)
 
 
 ## Frontend
