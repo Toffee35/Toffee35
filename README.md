@@ -1,9 +1,9 @@
 ## Backend
 **Rust**: [Actix](https://actix.rs)
 
-**Python**: [FastAPI](https://fastapi.tiangolo.com)
+**Python**: [FastAPI](https://fastapi.tiangolo.com), [Celery](https://docs.celeryq.dev)
 
-**Databases**: [Postgres](https://www.postgresql.org) (+ [PostGIS](https://postgis.net)), [MongoDB](https://www.mongodb.com)
+**Databases**: [PostgreSQL](https://www.postgresql.org) (+ [PostGIS](https://postgis.net)), [MongoDB](https://www.mongodb.com), [ClickHouse](https://clickhouse.com), [Redis](https://redis.io)
 
 
 ## Frontend
@@ -11,10 +11,10 @@
 
 **Styling**: Css, [Sass](https://sass-lang.com), [Tailwind Css](https://tailwindcss.com)
 
-**Bandlers**: [Vite](https://vite.dev)
+**Bandlers**: [Vite](https://vite.dev), [WebPack](https://webpack.js.org)
 
 
-### Additionally
+## Additionally
 **Tools**: [Docker](https://www.docker.com), [Git](https://git-scm.com)
 
 **Systems**: Windows, Linux
